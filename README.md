@@ -1,0 +1,1 @@
+J’ai réalisé ce projet à l’université. Celui-ci a pour objectif de virtualiser un serveur OPENVPN dans un conteneur Docker (automatisé via Ansible) et de déployer une machine Windows 10 via Vagrant. J’ai également mis en place un routeur virtuel (Pfsense), permettant ainsi de sécuriser mon réseau et de gérer mes flux qui transitent.
